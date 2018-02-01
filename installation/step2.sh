@@ -12,7 +12,7 @@ done
 #1.	Stop the Docker daemon and delete any files from /var/lib/docker
 for node in master1.example.com \
 	infranode1.example.com \
-	node1.example.com 
+	node1.example.com \
 	node2.example.com \
 	node3.example.com; \
 	do
